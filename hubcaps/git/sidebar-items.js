@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Blob",""],["Git","reference to git operations associated with a github repo"],["GitFile",""],["TreeData",""]]});
